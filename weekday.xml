@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SINPOTV.id>
+    <display-name lang="id">SIN PO TV</display-name>
+    <icon src="https://s.id/sinpologo" />
+    <url>https://tv.sinpo.id/</url>
+  </channel>
+
+<programme start="20250616000000 +0700" stop="20250616013000 +0700" channel="SINPOTV.id">
+    <title lang="id">Ruang Redaksi</title>
+  </programme>
+  <programme start="20250616013000 +0700" stop="20250616023000 +0700" channel="SINPOTV.id">
+    <title lang="id">Menyapa Indonesia Petang</title>
+  </programme>
+  <programme start="20250616023000 +0700" stop="20250616043000 +0700" channel="SINPOTV.id">
+    <title lang="id">Best Match Pegadaian Liga 2 24/25</title>
+  </programme>
+  <programme start="20250616043000 +0700" stop="20250616050000 +0700" channel="SINPOTV.id">
+    <title lang="id">Islam Penuh Cinta</title>
+  </programme>
+  <programme start="20250616050000 +0700" stop="20250616070000 +0700" channel="SINPOTV.id">
+    <title lang="id">Menyapa Indonesia Pagi</title>
+  </programme>
+  <programme start="20250616070000 +0700" stop="20250616080000 +0700" channel="SINPOTV.id">
+    <title lang="id">Liputan Update Viral</title>
+  </programme>
+  <programme start="20250616080000 +0700" stop="20250616090000 +0700" channel="SINPOTV.id">
+    <title lang="id">Apa Kata Gen Z?</title>
+  </programme>
+  <programme start="20250616090000 +0700" stop="20250616100000 +0700" channel="SINPOTV.id">
+    <title lang="id">Ngulik Politik</title>
+  </programme>
+  <programme start="20250616100000 +0700" stop="20250616103000 +0700" channel="SINPOTV.id">
+    <title lang="id">Tahukah Kamu?</title>
+  </programme>
+  <programme start="20250616103000 +0700" stop="20250616120000 +0700" channel="SINPOTV.id">
+    <title lang="id">Juragan 11</title>
+  </programme>
+  <programme start="20250616120000 +0700" stop="20250616133000 +0700" channel="SINPOTV.id">
+    <title lang="id">Menyapa Indonesia Siang</title>
+  </programme>
+  <programme start="20250616133000 +0700" stop="20250616140000 +0700" channel="SINPOTV.id">
+    <title lang="id">Best SUCA</title>
+  </programme>
+  <programme start="20250616140000 +0700" stop="20250616150000 +0700" channel="SINPOTV.id">
+    <title lang="id">Liputan Update Viral</title>
+  </programme>
+  <programme start="20250616150000 +0700" stop="20250616153000 +0700" channel="SINPOTV.id">
+    <title lang="id">InspiraCast</title>
+  </programme>
+  <programme start="20250616153000 +0700" stop="20250616163000 +0700" channel="SINPOTV.id">
+    <title lang="id">Menyapa Indonesia Petang</title>
+  </programme>
+  <programme start="20250616163000 +0700" stop="20250616183000 +0700" channel="SINPOTV.id">
+    <title lang="id">Best Match BRI Liga 1 24/25</title>
+  </programme>
+  <programme start="20250616183000 +0700" stop="20250616203000 +0700" channel="SINPOTV.id">
+    <title lang="id">Menyapa Indonesia Malam</title>
+  </programme>
+  <programme start="20250616203000 +0700" stop="20250616223000 +0700" channel="SINPOTV.id">
+    <title lang="id">Best Match BRI Liga 1 24/25/title>
+  </programme>
+  <programme start="20250616223000 +0700" stop="20250617000000 +0700" channel="SINPOTV.id">
+    <title lang="id">Sorotan Utama</title>
+  </programme>
+ </tv>

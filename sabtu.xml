@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="SINPOTV.id>
+    <display-name lang="id">SIN PO TV</display-name>
+    <icon src="https://s.id/sinpologo" />
+    <url>https://tv.sinpo.id/</url>
+  </channel>
+
+<programme start="20250614000000 +0700" stop="20250614010000 +0700" channel="SINPOTV.id">
+    <title lang="id">Sport Zone</title>
+  </programme>
+  <programme start="20250614010000 +0700" stop="20250614013000 +0700" channel="SINPOTV.id">
+    <title lang="id">BPR Menyapa</title>
+  </programme>
+  <programme start="20250614013000 +0700" stop="20250614023000 +0700" channel="SINPOTV.id">
+    <title lang="id">Menyapa Indonesia Petang</title>
+  </programme>
+  <programme start="20250614023000 +0700" stop="20250614043000 +0700" channel="SINPOTV.id">
+    <title lang="id">Best Match Pegadaian Liga 2 24/25</title>
+  </programme>
+  <programme start="20250614043000 +0700" stop="20250614050000 +0700" channel="SINPOTV.id">
+    <title lang="id">Islam Penuh Cinta</title>
+  </programme>
+  <programme start="20250614050000 +0700" stop="20250614060000 +0700" channel="SINPOTV.id">
+    <title lang="id">Senayan Scope</title>
+  </programme>
+  <programme start="20250614060000 +0700" stop="20250614070000 +0700" channel="SINPOTV.id">
+    <title lang="id">President Activity</title>
+  </programme>
+  <programme start="20250614070000 +0700" stop="20250614080000 +0700" channel="SINPOTV.id">
+    <title lang="id">Liputan Update Viral</title>
+  </programme>
+  <programme start="20250614080000 +0700" stop="20250614090000 +0700" channel="SINPOTV.id">
+    <title lang="id">Bincang Spesial</title>
+  </programme>
+  <programme start="20250614090000 +0700" stop="20250614100000 +0700" channel="SINPOTV.id">
+    <title lang="id">Ngulik Politik</title>
+  </programme>
+  <programme start="20250614100000 +0700" stop="20250614103000 +0700" channel="SINPOTV.id">
+    <title lang="id">Tahukah Kamu?</title>
+  </programme>
+  <programme start="20250614103000 +0700" stop="20250614120000 +0700" channel="SINPOTV.id">
+    <title lang="id">Juragan 11</title>
+  </programme>
+  <programme start="20250614120000 +0700" stop="20250614130000 +0700" channel="SINPOTV.id">
+    <title lang="id">Sport Zone</title>
+  </programme>
+  <programme start="20250614130000 +0700" stop="20250614133000 +0700" channel="SINPOTV.id">
+    <title lang="id">BPR Menyapa</title>
+  </programme>
+  <programme start="20250614133000 +0700" stop="20250614140000 +0700" channel="SINPOTV.id">
+    <title lang="id">Best SUCA</title>
+  </programme>
+  <programme start="20250614140000 +0700" stop="20250614150000 +0700" channel="SINPOTV.id">
+    <title lang="id">Liputan Update Viral</title>
+  </programme>
+  <programme start="20250614150000 +0700" stop="20250614153000 +0700" channel="SINPOTV.id">
+    <title lang="id">Cinema Seru</title>
+  </programme>
+  <programme start="20250614153000 +0700" stop="20250614163000 +0700" channel="SINPOTV.id">
+    <title lang="id">Menyapa Indonesia Petang</title>
+  </programme>
+  <programme start="20250614163000 +0700" stop="20250614183000 +0700" channel="SINPOTV.id">
+    <title lang="id">Best Match BRI Liga 1 24/25</title>
+  </programme>
+  <programme start="20250614183000 +0700" stop="20250614193000 +0700" channel="SINPOTV.id">
+    <title lang="id">Senayan Scope</title>
+  </programme>
+  <programme start="20250614193000 +0700" stop="20250614203000 +0700" channel="SINPOTV.id">
+    <title lang="id">President Activity</title>
+  </programme>
+  <programme start="20250614203000 +0700" stop="20250614223000 +0700" channel="SINPOTV.id">
+    <title lang="id">Best Match BRI Liga 1 24/25/title>
+  </programme>
+  <programme start="20250614223000 +0700" stop="20250614233000 +0700" channel="SINPOTV.id">
+    <title lang="id">Apa Kata Gen Z?</title>
+  </programme>
+  <programme start="20250614233000 +0700" stop="20250615000000 +0700" channel="SINPOTV.id">
+    <title lang="id">InspiraCast</title>
+  </programme>
+ </tv>
