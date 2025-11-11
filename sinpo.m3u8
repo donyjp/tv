@@ -8839,10 +8839,15 @@
 
 
 #EXTM3U
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:mimetype=application/dash+xml
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="CHANNEL | INDIHOME"" tvg-logo="https://s.id/sinpologo",SIN PO TV
+https://cdngb196.indihometv.com/atm/mpd-vo/sinpotv/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.tv.sinpo.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1  group-title="CHANNEL | INDONESIA" tvg-id="SINPOTV.id" tvg-url="https://s.id/STVSabtu" tvg-logo="https://s.id/sinpologo", SIN PO TV
-rtmp://etv-cdn.kdb.co.id/static/ETV
 
 
