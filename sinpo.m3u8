@@ -8839,6 +8839,7 @@
 
 
 #EXTM3U
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayToko/Kopi/main/Logo%20maytoko.png",CHANNEL | INDIHOME
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -8847,7 +8848,8 @@
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="CHANNEL | INDIHOME"" tvg-logo="https://s.id/sinpologo",SIN PO TV
-https://cdngb196.indihometv.com/atm/mpd-vo/sinpotv/manifest.mpd
+https://cdngb196.indihometv.com/atm/DASH/sinpotv/manifest.mpd
+
 
 
 
