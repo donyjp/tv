@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="SinpoTV.id>
+<channel id="SinpoTV.id">
     <display-name lang="id">SIN PO tv</display-name>
     <icon src="https://s.id/sinpologo" />
     <url>https://tv.sinpo.id/</url>
   </channel>
-
 <programme start="20251112043000 +0700" stop="20251112050000 +0700" channel="SinpoTV.id">
     <title lang="id">Islam Penuh Cinta</title>
   </programme>
@@ -62,3 +61,4 @@
   </programme>
 
  </tv>
+
