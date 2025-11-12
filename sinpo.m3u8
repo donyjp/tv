@@ -8847,8 +8847,9 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="CHANNEL | INDIHOME" tvg-logo="https://s.id/sinpologo",SIN PO tv
+#EXTINF:-1 tvg-id="SinpoTV.id" tvg-url="https://s.id/sinpoepg" group-title="CHANNEL | INDIHOME" tvg-logo="https://s.id/sinpologo",SIN PO tv
 https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
+
 
 
 
