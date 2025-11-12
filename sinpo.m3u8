@@ -8832,17 +8832,11 @@
 
 
 
-76
-
-
-#EXTM3U billed-msg=".", url-tvg="https://s.id/sinpoepg" refresh="23"
-#EXTM3U url-tvg="https://s.id/sinpoepg" refresh="1440" max-conn="1" refresh="24"
 
 
 
 
-
-#EXTM3U
+#EXTM3U url-tvg="https://s.id/sinpoepg" refresh="3600"
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -8856,6 +8850,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 
 #EXTINF:-1 tvg-id="--" group-title="CHANNEL | INDONESIA" tvg-logo="https://s.id/sinpologo", SIN PO tv
 https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
+
 
 
 
