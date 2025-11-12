@@ -5,51 +5,6 @@
     <icon src="https://s.id/sinpologo" />
     <url>https://tv.sinpo.id/</url>
   </channel>
-<programme start="20251112043000 +0700" stop="20251112050000 +0700" channel="SinpoTV.id">
-    <title lang="id">Islam Penuh Cinta</title>
-  </programme>
-  <programme start="20251112050000 +0700" stop="20251112070000 +0700" channel="SinpoTV.id">
-    <title lang="id">Menyapa Indonesia Pagi</title>
-  </programme>
-  <programme start="20251112070000 +0700" stop="20251112073000 +0700" channel="SinpoTV.id">
-    <title lang="id">LUV (Liputan Update Viral)</title>
-  </programme>
-  <programme start="20251112073000 +0700" stop="20251112083000 +0700" channel="SinpoTV.id">
-    <title lang="id">Sorotan Dunia</title>
-  </programme>
-  <programme start="20251112083000 +0700" stop="20251112093000 +0700" channel="SinpoTV.id">
-    <title lang="id">Ngulik Politik</title>
-  </programme>
-  <programme start="20251112093000 +0700" stop="20251112103000 +0700" channel="SinpoTV.id">
-    <title lang="id">Catatan Kriminal</title>
-  </programme>
-  <programme start="20251112103000 +0700" stop="20251112123000 +0700" channel="SinpoTV.id">
-    <title lang="id">Juragan 11 (Comedy Show)</title>
-  </programme>
-  <programme start="20251112123000 +0700" stop="20251112140000 +0700" channel="SinpoTV.id">
-    <title lang="id">Menyapa Indonesia Siang</title>
-  </programme>
-  <programme start="20251112140000 +0700" stop="20251112150000 +0700" channel="SinpoTV.id">
-    <title lang="id">Ketawa Ala SUCA</title>
-  </programme>
-  <programme start="20251112150000 +0700" stop="20251112153000 +0700" channel="SinpoTV.id">
-    <title lang="id">LUV (Liputan Update Viral)</title>
-  </programme>
-  <programme start="20251112153000 +0700" stop="20251112173000 +0700" channel="SinpoTV.id">
-    <title lang="id">Pegadaian Championship 25/26 : Kendal Tornado FC vs PS.Barito Putera</title>
-  </programme>
-  <programme start="20251112173000 +0700" stop="20251112190000 +0700" channel="SinpoTV.id">
-    <title lang="id">Menyapa Indonesia Petang</title>
-  </programme>
-  <programme start="20251112190000 +0700" stop="20251112210000 +0700" channel="SinpoTV.id">
-    <title lang="id">Pegadaian Championship 25/26 : PERSIBA Balikpapan vs PSS Sleman</title>
-  </programme>
-  <programme start="20251112210000 +0700" stop="20251112230000 +0700" channel="SinpoTV.id">
-    <title lang="id">Menyapa Indonesia Malam</title>
-  </programme>
-  <programme start="20251112230000 +0700" stop="20251113000000 +0700" channel="SinpoTV.id">
-    <title lang="id">Sorotan Utama</title>
-  </programme>
   <programme start="20251113000000 +0700" stop="20251113010000 +0700" channel="SinpoTV.id">
     <title lang="id">Ruang Redaksi</title>
   </programme>
@@ -59,6 +14,63 @@
   <programme start="20251113023000 +0700" stop="202511130430000 +0700" channel="SinpoTV.id">
     <title lang="id">Best Match Pegadaian Championship 25/26</title>
   </programme>
-
+<programme start="20251113043000 +0700" stop="20251113050000 +0700" channel="SinpoTV.id">
+    <title lang="id">Islam Penuh Cinta</title>
+  </programme>
+  <programme start="20251113050000 +0700" stop="20251113070000 +0700" channel="SinpoTV.id">
+    <title lang="id">Menyapa Indonesia Pagi</title>
+  </programme>
+  <programme start="20251113070000 +0700" stop="20251113073000 +0700" channel="SinpoTV.id">
+    <title lang="id">LUV (Liputan Update Viral)</title>
+  </programme>
+  <programme start="20251113073000 +0700" stop="20251113083000 +0700" channel="SinpoTV.id">
+    <title lang="id">Sorotan Dunia</title>
+  </programme>
+  <programme start="20251113083000 +0700" stop="20251113093000 +0700" channel="SinpoTV.id">
+    <title lang="id">Ngulik Politik</title>
+  </programme>
+  <programme start="20251113093000 +0700" stop="20251113103000 +0700" channel="SinpoTV.id">
+    <title lang="id">Catatan Kriminal</title>
+  </programme>
+  <programme start="20251113103000 +0700" stop="20251113123000 +0700" channel="SinpoTV.id">
+    <title lang="id">Juragan 11 (Comedy Show)</title>
+  </programme>
+  <programme start="20251113123000 +0700" stop="20251113140000 +0700" channel="SinpoTV.id">
+    <title lang="id">Menyapa Indonesia Siang</title>
+  </programme>
+  <programme start="20251113140000 +0700" stop="20251113150000 +0700" channel="SinpoTV.id">
+    <title lang="id">Ketawa Ala SUCA</title>
+  </programme>
+  <programme start="20251113150000 +0700" stop="20251113153000 +0700" channel="SinpoTV.id">
+    <title lang="id">LUV (Liputan Update Viral)</title>
+  </programme>
+  <programme start="20251113153000 +0700" stop="20251113173000 +0700" channel="SinpoTV.id">
+    <title lang="id">Pegadaian Championship 25/26 PEKAN 10</title>
+      <desc lang="id">PERSEKAT Tegal vs PSMS Medan</desc>
+  </programme>
+  <programme start="20251113173000 +0700" stop="20251113190000 +0700" channel="SinpoTV.id">
+    <title lang="id">Menyapa Indonesia Petang</title>
+  </programme>
+  <programme start="20251113190000 +0700" stop="20251113210000 +0700" channel="SinpoTV.id">
+    <title lang="id">Pegadaian Championship 25/26 PEKAN 10</title>
+      <desc lang="id">Sumsel United vs PERSIKAD</desc>
+  </programme>
+  <programme start="20251113210000 +0700" stop="20251113230000 +0700" channel="SinpoTV.id">
+    <title lang="id">Menyapa Indonesia Malam</title>
+  </programme>
+  <programme start="20251113230000 +0700" stop="20251114000000 +0700" channel="SinpoTV.id">
+    <title lang="id">Sorotan Utama</title>
+  </programme>
+      <programme start="20251114000000 +0700" stop="20251114010000 +0700" channel="SinpoTV.id">
+    <title lang="id">Ruang Redaksi</title>
+     <desc lang="id">Ringkasan Berita Hari Ini</desc>
+  </programme>
+  <programme start="20251114010000 +0700" stop="20251114023000 +0700" channel="SinpoTV.id">
+    <title lang="id">Menyapa Indonesia Petang (Rerun)</title>
+  </programme>
+  <programme start="20251114023000 +0700" stop="202511140430000 +0700" channel="SinpoTV.id">
+    <title lang="id">Best Match Pegadaian Championship 25/26</title>
+  </programme>
  </tv>
+
 
