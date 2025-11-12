@@ -45,15 +45,15 @@
     <title lang="id">LUV (Liputan Update Viral)</title>
   </programme>
   <programme start="20251113153000 +0700" stop="20251113173000 +0700" channel="SinpoTV.id">
-    <title lang="id">Pegadaian Championship 25/26 PEKAN 10</title>
-      <desc lang="id">PERSEKAT Tegal vs PSMS Medan</desc>
+    <title lang="id">Pegadaian Championship 25/26:PERSEKAT Tegal vs PSMS Medan</title>
+      <desc lang="id">Pertandingan Pekan 10 Pegadaian Championship 25/26 antara PERSEKAT Tegal vs PSMS Medan</desc>
   </programme>
   <programme start="20251113173000 +0700" stop="20251113190000 +0700" channel="SinpoTV.id">
     <title lang="id">Menyapa Indonesia Petang</title>
   </programme>
   <programme start="20251113190000 +0700" stop="20251113210000 +0700" channel="SinpoTV.id">
-    <title lang="id">Pegadaian Championship 25/26 PEKAN 10</title>
-      <desc lang="id">Sumsel United vs PERSIKAD</desc>
+    <title lang="id">Pegadaian Championship 25/26: Sumsel United vs PERSIKAD</title>
+      <desc lang="id">Pertandingan Pekan 10 Pegadaian Championship 25/26 antara Sumsel United vs PERSIKAD</desc>
   </programme>
   <programme start="20251113210000 +0700" stop="20251113230000 +0700" channel="SinpoTV.id">
     <title lang="id">Menyapa Indonesia Malam</title>
@@ -72,5 +72,6 @@
     <title lang="id">Best Match Pegadaian Championship 25/26</title>
   </programme>
  </tv>
+
 
 
