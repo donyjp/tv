@@ -97,17 +97,20 @@
       <programme start="20251114000000 +0700" stop="20251114010000 +0700" channel="SinpoTV.id">
     <title lang="id">Ruang Redaksi</title>
      <desc lang="id">Ruang Redaksi di Sin Po TV adalah program bincang-bincang yang membawa pemirsa ke balik layar proses redaksi berita</desc>
+          <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/RUANG%20REDAKSI.png"/>
   </programme>
   <programme start="20251114010000 +0700" stop="20251114023000 +0700" channel="SinpoTV.id">
     <title lang="id">Menyapa Indonesia Petang (Rerun)</title>
       <desc lang="id">Menyapa Indonesia Petang di Sin Po TV adalah program berita utama sore hari yang merangkum seluruh peristiwa penting sepanjang hari</desc>
       <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/RUANG%20REDAKSI.png"/>
+      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/MENYAPA%20INDONESIA%20PETANG.png"/>
   </programme>
   <programme start="20251114023000 +0700" stop="202511140430000 +0700" channel="SinpoTV.id">
     <title lang="id">Best Match Pegadaian Championship 25/26</title>
       <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/PGC.jpg"/>
   </programme>
  </tv>
+
 
 
 
