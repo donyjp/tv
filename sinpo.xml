@@ -123,8 +123,18 @@
     <desc lang="id">Islam Penuh Cinta di Sin Po TV adalah program tausiyah agama islam, yang menampilkan Islam sebagai agama rahmat bagi semesta alam</desc>
     <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/IPC.png"/>
   </programme>
-
+ <programme start="20251115050000 +0700" stop="20251115060000 +0700" channel="SinpoTV.id">
+    <title lang="id">Ruang Parlemen</title>
+    <desc lang="id">Mengabarkan berita dan informasi seputar Parlemen Indonesia</desc>
+    <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/parlemen.png"/>
+  </programme>
+    <programme start="20251115060000 +0700" stop="20251115070000 +0700" channel="SinpoTV.id">
+    <title lang="id">Ruang Kepresidenan</title>
+    <desc lang="id">Mengabarkan berita dan informasi seputar Aktivitas Kerja Presiden Prabowo Subianto selama sepekan</desc>
+    <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/kepresidenan.png"/>
+  </programme>
  </tv>
+
 
 
 
