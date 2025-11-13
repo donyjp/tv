@@ -118,7 +118,14 @@
     <title lang="id">Best Match Pegadaian Championship 25/26</title>
       <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/PGC.jpg"/>
       </programme>
+     <programme start="20251115043000 +0700" stop="20251115050000 +0700" channel="SinpoTV.id">
+    <title lang="id">Islam Penuh Cinta</title>
+    <desc lang="id">Islam Penuh Cinta di Sin Po TV adalah program tausiyah agama islam, yang menampilkan Islam sebagai agama rahmat bagi semesta alam</desc>
+    <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/IPC.png"/>
+  </programme>
+
  </tv>
+
 
 
 
