@@ -5,16 +5,6 @@
     <icon src="https://s.id/sinpologo" />
     <url>https://tv.sinpo.id/</url>
   </channel>
-  <programme start="20251113210000 +0700" stop="20251113230000 +0700" channel="SinpoTV.id">
-    <title lang="id">Menyapa Indonesia Malam</title>
-       <desc lang="id">Menyapa Indonesia Malam di Sin Po TV adalah program berita penutup hari yang merangkum dan menganalisis peristiwa penting sepanjang hari</desc>
-      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/MENYAPA%20INDONESIA%20MALAM.png"/>
-  </programme>
-  <programme start="20251113230000 +0700" stop="20251114000000 +0700" channel="SinpoTV.id">
-    <title lang="id">Sorotan Utama</title>
-      <desc lang="id">Sorotan Utama di Sin Po TV adalah program diskusi yang menganalisis isu-isu krusial di Indonesia secara mendalam</desc>
-      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/SOROTAN%20UTAMA.png"/>
-  </programme>
       <programme start="20251114000000 +0700" stop="20251114010000 +0700" channel="SinpoTV.id">
     <title lang="id">Ruang Redaksi</title>
      <desc lang="id">Ruang Redaksi di Sin Po TV adalah program bincang-bincang yang membawa pemirsa ke balik layar proses redaksi berita</desc>
@@ -229,6 +219,7 @@
       </programme>
     
  </tv>
+
 
 
 
