@@ -5,85 +5,6 @@
     <icon src="https://s.id/sinpologo" />
     <url>https://tv.sinpo.id/</url>
   </channel>
-  <programme start="20251113000000 +0700" stop="20251113010000 +0700" channel="SinpoTV.id">
-    <title lang="id">Ruang Redaksi</title>
-      <desc lang="id">Ruang Redaksi di Sin Po TV adalah program bincang-bincang yang membawa pemirsa ke balik layar proses redaksi berita</desc>
-      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/RUANG%20REDAKSI.png"/>
-  </programme>
-  <programme start="20251113010000 +0700" stop="20251113023000 +0700" channel="SinpoTV.id">
-    <title lang="id">Menyapa Indonesia Petang (Rerun)</title>
-      <desc lang="id">Menyapa Indonesia Petang di Sin Po TV adalah program berita utama sore hari yang merangkum seluruh peristiwa penting sepanjang hari</desc>
-      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/MENYAPA%20INDONESIA%20PETANG.png"/>
-  </programme>
-  <programme start="20251113023000 +0700" stop="202511130430000 +0700" channel="SinpoTV.id">
-    <title lang="id">Best Match Pegadaian Championship 25/26</title>
-      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/PGC.jpg"/>
-  </programme>
-<programme start="20251113043000 +0700" stop="20251113050000 +0700" channel="SinpoTV.id">
-    <title lang="id">Islam Penuh Cinta</title>
-    <desc lang="id">Islam Penuh Cinta di Sin Po TV adalah program tausiyah agama islam, yang menampilkan Islam sebagai agama rahmat bagi semesta alam</desc>
-    <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/IPC.png"/>
-  </programme>
-  <programme start="20251113050000 +0700" stop="20251113070000 +0700" channel="SinpoTV.id">
-    <title lang="id">Menyapa Indonesia Pagi</title>
-      <desc lang="id">Menyapa Indonesia Pagi di Sin Po TV adalah program berita dan informasi yang mengawali hari pemirsa dengan peristiwa penting semalam dan isu yang akan menjadi perhatian hari ini.</desc>
-      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/MENYAPA%20INDONESIA%20PAGI.png"/>
-  </programme>
-  <programme start="20251113070000 +0700" stop="20251113073000 +0700" channel="SinpoTV.id">
-    <title lang="id">LUV (Liputan Update Viral)</title>
-      <desc lang="id">Dunia selebriti tak pernah sepi dari cerita! Update terkini, drama terpanas, dan konten paling viral!</desc>
-      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/LUV.png"/>
-  </programme>
-  <programme start="20251113073000 +0700" stop="20251113083000 +0700" channel="SinpoTV.id">
-    <title lang="id">Sorotan Dunia</title>
-      <desc lang="id">Sorotan Dunia di Sin Po TV adalah program berita dan informasi terkini di Dunia</desc>
-      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/SOROTAN%20DUNIA.png"/>
-  </programme>
-  <programme start="20251113083000 +0700" stop="20251113093000 +0700" channel="SinpoTV.id">
-    <title lang="id">Ngulik Politik</title>
-      <desc lang="id">Ngulik Politik di Sin Po TV adalah program diskusi mendalam yang menganalisis isu-isu politik terkini di Indonesia</desc>
-      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/NGUTIK.png"/>
-  </programme>
-  <programme start="20251113093000 +0700" stop="20251113103000 +0700" channel="SinpoTV.id">
-    <title lang="id">Catatan Kriminal</title>
-      <desc lang="id">Memaparkan Berita Kriminal dan Peristiwa terkini</desc>
-      <icon src="https://s.id/catkrim"/>
-  </programme>
-  <programme start="20251113103000 +0700" stop="20251113123000 +0700" channel="SinpoTV.id">
-    <title lang="id">Juragan 11 (Comedy Show)</title>
-      <desc lang="id">Juragan 11 adalah acara komedi yang mengisahkan Soimah Pancawati sebagai juragan yang baru membuka taman hiburan, dibantu oleh dua asistennya, Nunung dan Ramzi. Adul berperan sebagai petugas keamanan, sementara hiburan kocak turut disajikan oleh Trio Dar Der Dor-Jirayut Afisan, Irfan Hakim, dan Ruben Onsu-serta penampilan dari Gilang Dirga, Parto Patrio, dan Azis Gagap</desc>
-      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/JURAGAN11.png"/>
-  </programme>
-  <programme start="20251113123000 +0700" stop="20251113140000 +0700" channel="SinpoTV.id">
-    <title lang="id">Menyapa Indonesia Siang</title>
-      <desc lang="id">Menyapa Indonesia Siang di Sin Po TV adalah program berita dan informasi yang memperbarui pemirsa di tengah hari</desc>
-      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/MENYAPA%20INDONESIA%20SIANG.png"/>
-  </programme>
-  <programme start="20251113140000 +0700" stop="20251113150000 +0700" channel="SinpoTV.id">
-    <title lang="id">Ketawa Ala SUCA</title>
-      <desc lang="id">Stand Up Comedy Academy (SUCA) merupakan ajang pencarian bakat komika tanah air. Dalam program ini, para komika berkumpul dan tampil membawakan materi-materi lucu untuk menghibur penonton dengan sajian komedi segar dan menggelitik</desc>
-      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/SUCA.png"/>
-  </programme>
-  <programme start="20251113150000 +0700" stop="20251113153000 +0700" channel="SinpoTV.id">
-    <title lang="id">LUV (Liputan Update Viral)</title>
-      <desc lang="id">Dunia selebriti tak pernah sepi dari cerita! Update terkini, drama terpanas, dan konten paling viral!</desc>
-      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/LUV.png"/>
-  </programme>
-  <programme start="20251113153000 +0700" stop="20251113173000 +0700" channel="SinpoTV.id">
-    <title lang="id">Pegadaian Championship 25/26: PERSEKAT Tegal vs PSMS Medan</title>
-      <desc lang="id">Pertandingan Pekan 10 Pegadaian Championship 25/26 antara PERSEKAT Tegal vs PSMS Medan</desc>
-      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/PGC.jpg"/>
-  </programme>
-  <programme start="20251113173000 +0700" stop="20251113190000 +0700" channel="SinpoTV.id">
-    <title lang="id">Menyapa Indonesia Petang</title>
-      <desc lang="id">Menyapa Indonesia Petang di Sin Po TV adalah program berita utama sore hari yang merangkum seluruh peristiwa penting sepanjang hari</desc>
-      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/MENYAPA%20INDONESIA%20PETANG.png"/>
-  </programme>
-  <programme start="20251113190000 +0700" stop="20251113210000 +0700" channel="SinpoTV.id">
-    <title lang="id">Pegadaian Championship 25/26: Sumsel United vs PERSIKAD</title>
-      <desc lang="id">Pertandingan Pekan 10 Pegadaian Championship 25/26 antara Sumsel United vs PERSIKAD</desc>
-      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/PGC.jpg"/>
-  </programme>
   <programme start="20251113210000 +0700" stop="20251113230000 +0700" channel="SinpoTV.id">
     <title lang="id">Menyapa Indonesia Malam</title>
        <desc lang="id">Menyapa Indonesia Malam di Sin Po TV adalah program berita penutup hari yang merangkum dan menganalisis peristiwa penting sepanjang hari</desc>
@@ -108,7 +29,96 @@
     <title lang="id">Best Match Pegadaian Championship 25/26</title>
       <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/PGC.jpg"/>
   </programme>
+    <programme start="20251114043000 +0700" stop="20251114050000 +0700" channel="SinpoTV.id">
+    <title lang="id">Islam Penuh Cinta</title>
+    <desc lang="id">Islam Penuh Cinta di Sin Po TV adalah program tausiyah agama islam, yang menampilkan Islam sebagai agama rahmat bagi semesta alam</desc>
+    <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/IPC.png"/>
+  </programme>
+  <programme start="20251114050000 +0700" stop="20251114070000 +0700" channel="SinpoTV.id">
+    <title lang="id">Menyapa Indonesia Pagi</title>
+      <desc lang="id">Menyapa Indonesia Pagi di Sin Po TV adalah program berita dan informasi yang mengawali hari pemirsa dengan peristiwa penting semalam dan isu yang akan menjadi perhatian hari ini.</desc>
+      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/MENYAPA%20INDONESIA%20PAGI.png"/>
+  </programme>
+  <programme start="20251114070000 +0700" stop="20251114073000 +0700" channel="SinpoTV.id">
+    <title lang="id">LUV (Liputan Update Viral)</title>
+      <desc lang="id">Dunia selebriti tak pernah sepi dari cerita! Update terkini, drama terpanas, dan konten paling viral!</desc>
+      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/LUV.png"/>
+  </programme>
+  <programme start="20251114073000 +0700" stop="20251114083000 +0700" channel="SinpoTV.id">
+    <title lang="id">Sorotan Dunia</title>
+      <desc lang="id">Sorotan Dunia di Sin Po TV adalah program berita dan informasi terkini di Dunia</desc>
+      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/SOROTAN%20DUNIA.png"/>
+  </programme>
+  <programme start="20251114083000 +0700" stop="20251114093000 +0700" channel="SinpoTV.id">
+    <title lang="id">Ngulik Politik</title>
+      <desc lang="id">Ngulik Politik di Sin Po TV adalah program diskusi mendalam yang menganalisis isu-isu politik terkini di Indonesia</desc>
+      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/NGUTIK.png"/>
+  </programme>
+  <programme start="20251114093000 +0700" stop="20251114103000 +0700" channel="SinpoTV.id">
+    <title lang="id">Catatan Kriminal</title>
+      <desc lang="id">Memaparkan Berita Kriminal dan Peristiwa terkini</desc>
+      <icon src="https://s.id/catkrim"/>
+  </programme>
+  <programme start="20251114103000 +0700" stop="20251114123000 +0700" channel="SinpoTV.id">
+    <title lang="id">Juragan 11 (Comedy Show)</title>
+      <desc lang="id">Juragan 11 adalah acara komedi yang mengisahkan Soimah Pancawati sebagai juragan yang baru membuka taman hiburan, dibantu oleh dua asistennya, Nunung dan Ramzi. Adul berperan sebagai petugas keamanan, sementara hiburan kocak turut disajikan oleh Trio Dar Der Dor-Jirayut Afisan, Irfan Hakim, dan Ruben Onsu-serta penampilan dari Gilang Dirga, Parto Patrio, dan Azis Gagap</desc>
+      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/JURAGAN11.png"/>
+  </programme>
+  <programme start="20251114123000 +0700" stop="20251114140000 +0700" channel="SinpoTV.id">
+    <title lang="id">Menyapa Indonesia Siang</title>
+      <desc lang="id">Menyapa Indonesia Siang di Sin Po TV adalah program berita dan informasi yang memperbarui pemirsa di tengah hari</desc>
+      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/MENYAPA%20INDONESIA%20SIANG.png"/>
+  </programme>
+  <programme start="20251114140000 +0700" stop="20251114150000 +0700" channel="SinpoTV.id">
+    <title lang="id">Ketawa Ala SUCA</title>
+      <desc lang="id">Stand Up Comedy Academy (SUCA) merupakan ajang pencarian bakat komika tanah air. Dalam program ini, para komika berkumpul dan tampil membawakan materi-materi lucu untuk menghibur penonton dengan sajian komedi segar dan menggelitik</desc>
+      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/SUCA.png"/>
+  </programme>
+  <programme start="20251114150000 +0700" stop="20251114153000 +0700" channel="SinpoTV.id">
+    <title lang="id">LUV (Liputan Update Viral)</title>
+      <desc lang="id">Dunia selebriti tak pernah sepi dari cerita! Update terkini, drama terpanas, dan konten paling viral!</desc>
+      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/LUV.png"/>
+  </programme>
+  <programme start="20251113143000 +0700" stop="20251114173000 +0700" channel="SinpoTV.id">
+    <title lang="id">Best Match BRI SuperLeague 25/26: PSM Makassar vs Madura United FC</title>
+      <desc lang="id">Pertandingan Best Match BRI SuperLeague 25/26 antara PSM Makassar vs Madura United FC</desc>
+      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/BRISL.jpg"/>
+  </programme>
+  <programme start="20251114173000 +0700" stop="20251114190000 +0700" channel="SinpoTV.id">
+    <title lang="id">Menyapa Indonesia Petang</title>
+      <desc lang="id">Menyapa Indonesia Petang di Sin Po TV adalah program berita utama sore hari yang merangkum seluruh peristiwa penting sepanjang hari</desc>
+      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/MENYAPA%20INDONESIA%20PETANG.png"/>
+  </programme>
+  <programme start="20251114190000 +0700" stop="20251114210000 +0700" channel="SinpoTV.id">
+    <title lang="id">Menyapa Indonesia Malam</title>
+      <desc lang="id">Menyapa Indonesia Malam di Sin Po TV adalah program berita penutup hari yang merangkum dan menganalisis peristiwa penting sepanjang hari</desc>
+      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/MENYAPA%20INDONESIA%20MALAM.png"/>
+  </programme>
+    <programme start="20251114210000 +0700" stop="20251114230000 +0700" channel="SinpoTV.id">
+    <title lang="id">Best Match BRI SuperLeague 25/26: Persijap Jepara vs Malut United FC</title>
+      <desc lang="id">Pertandingan Best Match BRI SuperLeague 25/26 antara Persijap Jepara vs Malut United FC</desc>
+      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/BRISL.jpg"/>
+  </programme>
+  <programme start="20251114230000 +0700" stop="20251115000000 +0700" channel="SinpoTV.id">
+    <title lang="id">Catatan Kriminal (rerun)</title>
+      <desc lang="id">Memaparkan Berita Kriminal dan Peristiwa terkini</desc>
+      <icon src="https://s.id/catkrim"/>
+  </programme>
+      <programme start="20251115000000 +0700" stop="20251115010000 +0700" channel="SinpoTV.id">
+    <title lang="id">Ruang Redaksi</title>
+     <desc lang="id">Ruang Redaksi di Sin Po TV adalah program bincang-bincang yang membawa pemirsa ke balik layar proses redaksi berita</desc>
+          <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/RUANG%20REDAKSI.png"/>
+  </programme>
+  <programme start="20251115010000 +0700" stop="20251115023000 +0700" channel="SinpoTV.id">
+    <title lang="id">Menyapa Indonesia Petang (Rerun)</title>
+      <desc lang="id">Menyapa Indonesia Petang di Sin Po TV adalah program berita utama sore hari yang merangkum seluruh peristiwa penting sepanjang hari</desc>
+      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/MENYAPA%20INDONESIA%20PETANG.png"/>
+  </programme>
+  <programme start="20251115023000 +0700" stop="202511150430000 +0700" channel="SinpoTV.id">
+    <title lang="id">Best Match Pegadaian Championship 25/26</title>
+      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/PGC.jpg"/>
  </tv>
+
 
 
 
