@@ -5,21 +5,6 @@
     <icon src="https://s.id/sinpologo" />
     <url>https://tv.sinpo.id/</url>
   </channel>
-  <programme start="20251114073000 +0700" stop="20251114083000 +0700" channel="SinpoTV.id">
-    <title lang="id">Sorotan Dunia</title>
-      <desc lang="id">Sorotan Dunia di Sin Po TV adalah program berita dan informasi terkini di Dunia</desc>
-      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/SOROTAN%20DUNIA.png"/>
-  </programme>
-  <programme start="20251114083000 +0700" stop="20251114093000 +0700" channel="SinpoTV.id">
-    <title lang="id">Ngulik Politik</title>
-      <desc lang="id">Ngulik Politik di Sin Po TV adalah program diskusi mendalam yang menganalisis isu-isu politik terkini di Indonesia</desc>
-      <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/NGUTIK.png"/>
-  </programme>
-  <programme start="20251114093000 +0700" stop="20251114103000 +0700" channel="SinpoTV.id">
-    <title lang="id">Catatan Kriminal</title>
-      <desc lang="id">Memaparkan Berita Kriminal dan Peristiwa terkini</desc>
-      <icon src="https://s.id/catkrim"/>
-  </programme>
   <programme start="20251114103000 +0700" stop="20251114123000 +0700" channel="SinpoTV.id">
     <title lang="id">Juragan 11 (Comedy Show)</title>
       <desc lang="id">Juragan 11 adalah acara komedi yang mengisahkan Soimah Pancawati sebagai juragan yang baru membuka taman hiburan, dibantu oleh dua asistennya, Nunung dan Ramzi. Adul berperan sebagai petugas keamanan, sementara hiburan kocak turut disajikan oleh Trio Dar Der Dor-Jirayut Afisan, Irfan Hakim, dan Ruben Onsu-serta penampilan dari Gilang Dirga, Parto Patrio, dan Azis Gagap</desc>
@@ -140,7 +125,7 @@
       <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/LUV.png"/>
   </programme>
     <programme start="20251115153000 +0700" stop="20251115173000 +0700" channel="SinpoTV.id">
-    <title lang="id">Best Match BRI SuperLeague 25/26: Semen Padang FC vs Arema FC</title>
+    <title lang="id">Best Match BRI SuperLeague 25/26 (Semen Padang FC vs Arema FC)</title>
       <desc lang="id">Pertandingan Best Match BRI SuperLeague 25/26 antara Semen Padang FC vs Arema FC</desc>
       <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/BRISL.jpg"/>
   </programme>
@@ -165,7 +150,7 @@
       <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/zonaol.png"/>
   </programme>
     <programme start="20251115220000 +0700" stop="20251116000000 +0700" channel="SinpoTV.id">
-    <title lang="id">Best Match BRI SuperLeague 25/26: Borneo FC Samarinda vs Dewa United Banten FC</title>
+    <title lang="id">Best Match BRI SuperLeague 25/26 (Borneo FC Samarinda vs Dewa United Banten FC)</title>
       <desc lang="id">Pertandingan Best Match BRI SuperLeague 25/26 antara Borneo FC Samarinda vs Dewa United Banten FC</desc>
       <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/BRISL.jpg"/>
   </programme>
@@ -288,6 +273,7 @@
       <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/PGC.jpg"/>
       </programme>
  </tv>
+
 
 
 
