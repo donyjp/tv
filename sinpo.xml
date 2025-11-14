@@ -41,7 +41,7 @@
       <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/LUV.png"/>
   </programme>
   <programme start="20251114153000 +0700" stop="20251114173000 +0700" channel="SinpoTV.id">
-    <title lang="id">Best Match BRI SuperLeague 25/26: PSM Makassar vs Madura United FC</title>
+    <title lang="id">Best Match BRI SuperLeague 25/26 (PSM Makassar vs Madura United FC)</title>
       <desc lang="id">Pertandingan Best Match BRI SuperLeague 25/26 antara PSM Makassar vs Madura United FC</desc>
       <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/BRISL.jpg"/>
   </programme>
@@ -56,12 +56,12 @@
       <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/MENYAPA%20INDONESIA%20MALAM.png"/>
   </programme>
     <programme start="20251114210000 +0700" stop="20251114230000 +0700" channel="SinpoTV.id">
-    <title lang="id">Best Match BRI SuperLeague 25/26: Persijap Jepara vs Malut United FC</title>
+    <title lang="id">Best Match BRI SuperLeague 25/26 (Persijap Jepara vs Malut United FC)</title>
       <desc lang="id">Pertandingan Best Match BRI SuperLeague 25/26 antara Persijap Jepara vs Malut United FC</desc>
       <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/BRISL.jpg"/>
   </programme>
   <programme start="20251114230000 +0700" stop="20251115000000 +0700" channel="SinpoTV.id">
-    <title lang="id">Catatan Kriminal (rerun)</title>
+    <title lang="id">Catatan Kriminal (Rerun)</title>
       <desc lang="id">Memaparkan Berita Kriminal dan Peristiwa terkini</desc>
       <icon src="https://s.id/catkrim"/>
   </programme>
@@ -259,12 +259,12 @@
       <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/PGC.jpg"/>
   </programme>
     <programme start="20251116210000 +0700" stop="20251116220000 +0700" channel="SinpoTV.id">
-    <title lang="id">Kilas Sepekan (rerun)</title>
+    <title lang="id">Kilas Sepekan (Rerun)</title>
     <desc lang="id">Mengabarkan berita dan informasi selama sepekan</desc>
     <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/kilassep.png"/>
   </programme>
     <programme start="20251116220000 +0700" stop="20251116230000 +0700" channel="SinpoTV.id">
-    <title lang="id">Ruang Kabinet (rerun)</title>
+    <title lang="id">Ruang Kabinet (Rerun)</title>
     <desc lang="id">Mengabarkan berita dan informasi seputar Aktivitas Kerja Kabinet Presiden Prabowo Subianto</desc>
     <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/kabinet.png"/>
   </programme>
@@ -288,6 +288,7 @@
       <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/PGC.jpg"/>
       </programme>
  </tv>
+
 
 
 
