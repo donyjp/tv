@@ -125,7 +125,7 @@
       <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/LUV.png"/>
   </programme>
     <programme start="20251115153000 +0700" stop="20251115173000 +0700" channel="SinpoTV.id">
-    <title lang="id">Best Match BRI SuperLeague 25/26 (Semen Padang FC vs Arema FC)</title>
+        <title lang="id">Best Match BRI SuperLeague 25/26 (Semen Padang FC vs Arema FC)</title>
       <desc lang="id">Pertandingan Best Match BRI SuperLeague 25/26 antara Semen Padang FC vs Arema FC</desc>
       <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/BRISL.jpg"/>
   </programme>
@@ -150,7 +150,7 @@
       <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/zonaol.png"/>
   </programme>
     <programme start="20251115220000 +0700" stop="20251116000000 +0700" channel="SinpoTV.id">
-    <title lang="id">Best Match BRI SuperLeague 25/26 (Borneo FC Samarinda vs Dewa United Banten FC)</title>
+        <title lang="id">Best Match BRI SuperLeague 25/26 (Borneo FC Samarinda vs Dewa United Banten FC)</title>
       <desc lang="id">Pertandingan Best Match BRI SuperLeague 25/26 antara Borneo FC Samarinda vs Dewa United Banten FC</desc>
       <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/BRISL.jpg"/>
   </programme>
@@ -273,6 +273,7 @@
       <icon src="https://raw.githubusercontent.com/donyjp/tv/refs/heads/main/PGC.jpg"/>
       </programme>
  </tv>
+
 
 
 
