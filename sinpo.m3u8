@@ -8860,6 +8860,12 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=19046&type=dash
 #EXTINF:-1 tvg-id="SinPoTV.id@HD" tvg-url="https://raw.githubusercontent.com/kemalsyabaniadama/test-epg/refs/heads/main/guide.xml" tvg-logo="https://s.id/sinpologo" group-title="SIN PO TV",SIN PO tv
 https://nextgenz.my.id/event/pidio/play.mpd?id=19046&type=dash
 
+#EXTINF:-1 tvg-id="029" tvg-name="adptv-029" tvg-logo="https://i.ibb.co.com/TMcdxWrB/sinpotv.png" group-title="SIN PO TV",SIN PO tv 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+https://tvratu.my.id/nissa/index.mpd?id=19046&type=dash
+
 
 
 
